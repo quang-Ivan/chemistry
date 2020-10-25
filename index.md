@@ -8,7 +8,7 @@
 
 可能加载会有点慢，可以下载pdf版，观感更好哦！
 
-这是一个学渣的生物错题本，欢迎提交issues和pull request
+这是一个学渣的化学错题本，欢迎提交issues和pull request
 
 - [提issue](https://github.com/quang-Ivan/chemistry/issues)
 - [pull request](https://github.com/quang-Ivan/chemistry/pulls)
